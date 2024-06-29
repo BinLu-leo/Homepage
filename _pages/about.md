@@ -20,9 +20,8 @@ Ph.D. in Management Science and Engineering (Field of specialization: Energy Eco
 Joint visiting scholar in School of Public Policy, University of Maryland College Park, 2022.12-2023.12  
 M.A. in Business Management (Field of specialization:Technical Economics), Beijing Institute of Technology, 2018.09-2020.06  
 B.Eng. in Business Management, China University of Geosciences (Beijing), 2014.09-2018.06  
-<br>
-<br>
-<br>
+  
+
 
 关于我
 ======
