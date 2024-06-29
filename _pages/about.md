@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Postdoc**
+**Postdoc**  
 **School of Economics**
 **Beijing Institute of Technology**
 245428490@qq.com
