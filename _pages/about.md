@@ -7,7 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+PhD Candidate
+Beijing Institute of Technology, School of Management and Economics
+Major in Management Science and Engineering
+245428490@qq.com
+
+Fields of interest:
+Energy & Environmental Economics, Electricity Demand-side Management, Demand Response, Electric Vehicle Charging & Discharging Behavior, Behavior Experiments
+
+Education: 
+Ph.D. in Management Science and Engineering (Field of specialization: Energy Economic System Modeling), Beijing Institute of Technology, 2020-present
+Joint visiting scholar in School of Public Policy, University of Maryland College Park, 2022-2023
+M.A. in Business Management (Field of specialization:Technical Economics), Beijing Institute of Technology, 2018-2020 
+B.Eng. in Business Management, China University of Geosciences (Beijing), 2014-2018
+
 
 A data-driven personal website
 ======
