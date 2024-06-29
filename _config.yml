@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Bin Lu"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Beijing"
+  bio              : "Beijing Institute of Technology"
+  location         : "Beijing, China"
   employer         : #"Beijing Institute of Technology"
   uri              : # URL
   email            : "245428490@qq.com" 
