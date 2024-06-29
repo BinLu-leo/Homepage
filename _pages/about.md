@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 **Postdoc**  
-**School of Economics**
-**Beijing Institute of Technology**
+**School of Economics**  
+**Beijing Institute of Technology**  
 245428490@qq.com
 
 
@@ -26,14 +26,14 @@ B.Eng. in Business Management, China University of Geosciences (Beijing), 2014.0
 
 关于我
 ======
-**博士后**
-**北京理工大学 经济学院**
+**博士后**  
+**北京理工大学 经济学院**  
 245428490@qq.com
 
-**研究领域:**
+**研究领域:**  
 能源环境经济学, 电力需求侧管理, 需求响应,电动汽车充放电行为, 行为实验
 
-**教育背景:**
+**教育背景:**  
 2024年7月-至今 北京理工大学 经济学院 博士后  
 2020年9月-2024年6月 北京理工大学 管理学院 博士  
 2022年12月-2023年12月 美国马里兰大学 公共政策学院 公派联合培养博士生  
